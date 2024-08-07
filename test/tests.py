@@ -1,4 +1,4 @@
-from .index import evaluate, read_file
+from siml_parser import evaluate, read_file
 import os
 
 def read_file(file_name):
