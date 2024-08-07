@@ -1,4 +1,4 @@
-[![test workflow](https://github.com/capjamesg/siml/actions/workflows/tests.yml/badge.svg)](https://github.com/capjamesg/siml/actions/workflows/tests.yml)
+[![test workflow](https://github.com/capjamesg/siml/actions/workflows/test.yml/badge.svg)](https://github.com/capjamesg/siml/actions/workflows/test.yml)
 
 # Structured Index Markup Language (SIML)
 
